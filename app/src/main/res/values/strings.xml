@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Anike Cosmetics</string>
+    <string name="seller_price">Seller\'s Price</string>
+    <string name="jumia_price">Jumia\'s Price</string>
+    <string name="admin">ng.com.anikecosmetics.ADMIN</string>
+</resources>

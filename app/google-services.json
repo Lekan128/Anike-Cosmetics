@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454094087419",
+    "project_id": "anike-cosmetics",
+    "storage_bucket": "anike-cosmetics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454094087419:android:b1d0bbbfefb63c015e3c5e",
+        "android_client_info": {
+          "package_name": "ng.com.anikecosmetics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxVf4943Efb2FQzhMDOL1RdK2x_YANKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
